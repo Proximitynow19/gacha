@@ -1,0 +1,7 @@
+{
+  "shard": {
+    "name": "Shard",
+    "description": "Shards are a mystical currency used to draw powerful cards from the gacha. Collect them through battles, events, and quests to build your ultimate deck.",
+    "icon": "amethyst_shard"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "new_banner": {
+    "name": "Testing Banner",
+    "description": "Test description",
+    "icon": "respawn_anchor",
+    "cost": [{ "item": "shard", "quantity": 100 }],
+    "drops": ["john"]
+  }
+}
