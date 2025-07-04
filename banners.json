@@ -3,7 +3,7 @@
     "name": "Testing Banner",
     "description": "Test description",
     "icon": "respawn_anchor",
-    "cost": [{ "item": "shard", "quantity": 100 }],
+    "cost": { "shard": 100 },
     "drops": ["john"]
   }
 }
