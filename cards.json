@@ -1,1 +1,12 @@
-{}
+{
+  "john": {
+    "name": "John",
+    "description": "This is a card",
+    "item": "pig_spawn_egg",
+    "type": "fire",
+    "rarity": 1,
+    "max_hp": 1000,
+    "strength": 100,
+    "magic": 100
+  }
+}
