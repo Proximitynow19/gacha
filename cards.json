@@ -11,5 +11,12 @@
     "description": "A rock that slides, support your team with it's rocky shine.",
     "icon": "silverfish_spawn_egg",
     "rarity": 1
+  },
+
+  "beji": {
+    "name": "Beji",
+    "description": "Beji is a loyal fellow, trust him to support your team!",
+    "icon": "wolf_spawn_egg",
+    "rarity": 2
   }
 }
