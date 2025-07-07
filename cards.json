@@ -4,5 +4,12 @@
     "description": "This is a card",
     "icon": "pig_spawn_egg",
     "rarity": 1
+  },
+
+  "slithering rock": {
+    "name": "Slithering Rock",
+    "description": "A rock that slides, support your team with it's rocky shine.",
+    "icon": "silverfish_spawn_egg",
+    "rarity": 1
   }
 }

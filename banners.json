@@ -4,6 +4,6 @@
     "description": "Test description",
     "icon": "respawn_anchor",
     "cost": { "shard": 100 },
-    "drops": ["john"]
+    "drops": ["john", "slithering rock"]
   }
 }
