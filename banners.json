@@ -4,6 +4,6 @@
     "description": "Test description",
     "icon": "respawn_anchor",
     "cost": { "shard": 100 },
-    "drops": ["john", "slithering rock", "beji"]
+    "drops": ["john", "rick", "sally", "pod", "buzz honey", "beji woof", "fiesta mista", "tough guy gilbert"]
   }
 }

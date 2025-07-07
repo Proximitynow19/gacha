@@ -6,17 +6,52 @@
     "rarity": 1
   },
 
-  "slithering rock": {
-    "name": "Slithering Rock",
+  "sally": {
+    "name": "Sally",
+    "description": "Sally's a bit silly, but that's what makes her unique!",
+    "icon": "salmon_spawn_egg",
+    "rarity": 1
+  },
+
+  "rick": {
+    "name": "Rick",
     "description": "A rock that slides, support your team with it's rocky shine.",
     "icon": "silverfish_spawn_egg",
     "rarity": 1
   },
 
-  "beji": {
-    "name": "Beji",
+  "pod": {
+    "name": "Pod",
+    "description": "Don't underestimate him due to his size, he packs a hefty punch!",
+    "icon": "rabbit_spawn_egg",
+    "rarity": 1
+  },
+
+  "buzz honey": {
+    "name": "Buzz Honey",
+    "description": "Honey here, honey there, Buzz spreads joy everywhere!",
+    "icon": "bee_spawn_egg",
+    "rarity": 1
+  },
+
+  "beji woof": {
+    "name": "Beji Woof",
     "description": "Beji is a loyal fellow, trust him to support your team!",
     "icon": "wolf_spawn_egg",
+    "rarity": 2
+  },
+
+  "fiesta mista": {
+    "name": "Fiesta Mista",
+    "description": "You're on fire, they're on fire, even Fiesta's on fire?!",
+    "icon": "blaze_spawn_egg",
+    "rarity": 2
+  },
+
+  "tough guy gilbert": {
+    "name": "Tough Guy Gilbert",
+    "description": "Rock... no IRON hard body, good luck getting through that armor!",
+    "icon": "iron_golem_spawn_egg",
     "rarity": 2
   }
 }
